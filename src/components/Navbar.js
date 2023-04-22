@@ -28,46 +28,6 @@ export const Navbar = () => {
         </div>
 
       </div>
-      {/* <nav className='NavbarItems '>
-        <div className='container-fluid'>
-            <div className='row '>
-              <div className='col-3'>
-                <div className='logo d-flex align-item-center gap-10  '>
-                  <img src='images/vector.svg' alt='not found'/>
-                  <p className='logo-name'>Referrizer</p>
-                </div>
-              </div>
-              <div className='col-6 d-flex'>
-             
-                <div  className='nav-link'>
-                  <a href='/#' >Solution</a>
-                </div>
-                <div className='nav-link'>
-                  <a href='/#' >Pricing</a>
-                </div>
-                <div className='nav-link'>
-                  <a href='/#' >Testimonials</a>
-                </div>
-                <div className='nav-link'>
-                  <a href='/#' >Resources</a>
-                </div>
-
-
-              </div>
-              
-              <div className='col-3 d-flex gap-10'>
-                <div>
-                <button type="button" class="btn btn-outline-primary">Primary</button>
-                </div>
-                <div>
-                <button class="btn btn-primary" type="submit">Sign Up For Free</button>                </div>
-
-              </div>
-            </div>
-           </div>
-
-
-      </nav> */}
     </>
   )
 }
